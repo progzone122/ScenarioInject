@@ -1,0 +1,100 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #282C34;
+}
+.top-block1{
+  width: 100%;
+  height: 4em;
+  background-color: #21252B;
+  display: flex;
+  flex-direction: row;
+}
+.top-block_button{
+  width: 3.5em;
+  height: 100%;
+  background-image: url('../img/menu.png');
+  background-size: cover;
+}
+#project_name{
+  color: white;
+}
+.left-menu{
+  width: 25%;
+  background-color: #21252B;
+  flex-direction: column;
+  display: none;
+  position: absolute;
+  height: 100%;
+}
+.left-menu_action-block{
+  width: 100%;
+  height: 6em;
+  display: flex;
+  justify-content: center;
+}
+.left-menu_button{
+  width: 6em;
+  height: 100%;
+  margin-right: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;           /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
+.left-menu_button img{
+  background-size: cover;
+  width: 2em;
+  height: 2em;
+  margin-bottom: 0.6em;
+
+}
+.left-menu_button h3{
+  color: white;
+  margin: 0.3em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.left-menu_projects-block{
+  width: 100%;
+  overflow:auto;
+}
+.left-menu_profile-block{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.profile-block_left{
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.profile-block_left h3{
+  color: white;
+  font-size: 20px;
+  margin-left: 0.4em;
+}
+.profile-block_right{
+  height: 100%;
+}
+.profile_img{
+  width: 3.6em;
+  height: 3.6em;
+  margin-top: 0.3em;
+  margin-left: 0.7em;
+  border-radius: 2em;
+  background-color: white;
+}
+.settings_img{
+  background-size: cover;
+  width: 2em;
+  height: 2em;
+  margin-right: 1em;
+}

@@ -1,0 +1,29 @@
+.create_project-popup{
+  width:100%;
+  min-height:100%;
+  background-color: rgba(0,0,0,0.5);
+  overflow:hidden;
+  position:fixed;
+  top:0px;
+}
+.create_project-popup .create_project-form{
+  margin:40px auto 0px auto;
+  width: 55%;
+  padding:10px;
+  background-color: #282C34;
+  border-radius:5px;
+  box-shadow: 0px 0px 10px #000;
+}
+.create_project-form{
+  display: flex;
+  flex-direction: column;
+}
+.create_project-form h2{
+  color: white;
+}
+.create_project-form input{
+  width: 60%;
+}
+.create_project-form button{
+  width: 15%;
+}

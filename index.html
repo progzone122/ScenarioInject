@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/popup.css">
+    <title></title>
+  </head>
+  <body>
+    <div class="top-block1">
+      <div class="top-block_button">
+      </div>
+      <div style="display: flex; align-items: center; margin-left: 0.5em;">
+          <h1 id="project_name">Test</h1>
+      </div>
+    </div>
+    <!-- Menu -->
+    <div class="left-menu">
+      <!-- Action block -->
+      <div class="left-menu_action-block">
+        <div class="left-menu_button">
+          <img src="img/add1.png" alt="" id="create_project">
+          <h3>Create</h3>
+        </div>
+        <div class="left-menu_button">
+          <img src="img/edit.png" alt="">
+          <h3>Edit</h3>
+        </div>
+        <div class="left-menu_button" style="margin-right: 0;">
+          <img src="img/tools1.png" alt="">
+          <h3>Tools</h3>
+        </div>
+      </div>
+
+        <!-- Projects block -->
+        <div class="left-menu_projects-block">
+
+        </div>
+
+        <!-- Profile block -->
+        <div class="left-menu_profile-block">
+          <div class="profile-block_left">
+            <img src="img/profile2.png" alt="" class="profile_img">
+            <h3>Nickname</h3>
+          </div>
+
+          <div class="profile-block_right">
+            <img src="img/settings1.png" alt="" class="settings_img">
+          </div>
+        </div>
+    </div>
+
+    <!-- Create project PopUp -->
+    <div class="create_project-popup">
+      <form class="create_project-form" action="#" method="post">
+        <h2>Create project</h2>
+        <div style="display: flex;">
+          <input type="text" name="name" value="New project">
+          <button type="button" name="button">Create project</button>
+          <button type="button" name="button">Cancel</button>
+        </div>
+      </form>
+    </div>
+
+  </body>
+  <!-- JS files -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" charset="utf-8"></script>
+  <script src="js/menu.js" charset="utf-8"></script>
+  <script src="js/popup.js" charset="utf-8"></script>
+</html>

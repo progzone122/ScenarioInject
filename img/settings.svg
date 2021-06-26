@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg842"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="settings.svg"
+   inkscape:export-filename="C:\Users\Diablo\Desktop\pr\img\settings1.png"
+   inkscape:export-xdpi="224.647"
+   inkscape:export-ydpi="224.647">
+  <defs
+     id="defs836">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1510"
+       x="-4.9377184e-06"
+       width="1.0000099"
+       y="-4.6697554e-06"
+       height="1.0000093">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.00010486802"
+         id="feGaussianBlur1512" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4587127"
+     inkscape:cx="59.346201"
+     inkscape:cy="150.13294"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="filter:url(#filter1510)">
+    <path
+       id="path1407"
+       style="opacity:0.998;fill:#ffffff;stroke-width:1383.66;stroke-linejoin:round"
+       d="M 158.3457 27.941406 L 137.45117 72.53125 L 87.867188 65.412109 L 76.765625 89.595703 L 103.05273 130.15234 L 71.875 172.12305 L 85.925781 193.5 L 133.9707 190.17578 L 150.37891 231.64453 L 180.98438 231.64453 L 199.28906 192.57812 L 248.31641 199.61328 L 259.62891 174.97266 L 233.69141 134.95703 L 264.52344 93.453125 L 249.98828 71.667969 L 202.76758 74.931641 L 184.17383 27.941406 L 158.3457 27.941406 z M 167.82227 87.810547 A 37.514879 41.431271 0 0 1 205.29688 128.55469 L 205.30078 129.24023 A 37.514879 41.431271 0 0 1 167.94141 170.67188 A 37.514879 41.431271 0 0 1 130.27344 129.58398 A 37.514879 41.431271 0 0 1 167.32031 87.8125 A 37.514879 41.431271 0 0 1 167.82227 87.810547 z "
+       inkscape:export-xdpi="224.647"
+       inkscape:export-ydpi="224.647"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
